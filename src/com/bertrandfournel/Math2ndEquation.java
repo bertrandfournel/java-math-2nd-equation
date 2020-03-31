@@ -3,7 +3,7 @@ package com.bertrandfournel;
 import static java.lang.Math.pow;
 import java.util.Scanner;
 
-public class Main {
+public class Math2ndEquation {
 
     public static void main(String[] args) {
 
